@@ -33,7 +33,8 @@ Whether you are a researcher, student, or analyst, your story can help inform, i
 
 Explore how gender influences access to or/and quality of cardiovascular healthcare. 
 You are free to use the dataset provided below or bring your own,  as long as it aligns with the theme.
--https://bit.ly/3ZPAlz0
+
+- https://bit.ly/3ZPAlz0
 - https://bit.ly/3ZQmQPo
 
   
