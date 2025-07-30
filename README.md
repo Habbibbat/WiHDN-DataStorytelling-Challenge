@@ -25,7 +25,7 @@ Whether you are a researcher, student, or analyst, your story can help inform, i
 ##  Key Dates
 
 - **Launch Date:** June 2025  
-- **Submission Deadline:** **August 15, 2025**
+- **Submission Deadline:** **August 31, 2025**
 
 ---
 
